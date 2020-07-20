@@ -1,11 +1,11 @@
-# Dynamic Webpage (ChatApp & FeuerwehrApp)
+# TDD (Test Driven Development)
 This project contains a basic framework to try out test driven development in Javascript.
 
 ## Prerequisites
 
 The following software is required to install and use the workshop project.
 
-* [Visual Studio Code](https://code.visualstudio.com))
+* [Visual Studio Code](https://code.visualstudio.com)
 * [Node.js](https://nodejs.org/en/download/)
 * [Git](https://git-scm.com/download/win)
 
