@@ -3,9 +3,9 @@
 set PROJECT_ROOT=%~dp0
 
 rem The following two variables need to be set if the installation folders are not part of the PATH environment variable.
-set NODE_HOME=D:\software\Node.js\node-v12.16.2-win-x64
-set GIT_HOME=D:\software\Git\PortableGit\cmd
-set VISUALSTUDIOCODE_HOME=D:\software\VisualStudioCode\1.47.2
+set NODE_HOME=D:\software\Node.js\current
+set GIT_HOME=D:\software\Git\current
+set VISUALSTUDIOCODE_HOME=D:\software\VisualStudioCode\current
 set GRUNT_HOME=%PROJECT_ROOT%\node_modules\grunt\node_modules\.bin
 
 call :setPathFor Node.js, 				%NODE_HOME%, 					"node --version"
