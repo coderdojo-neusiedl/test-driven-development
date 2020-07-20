@@ -1,0 +1,29 @@
+{
+   "name": "tdd-workspace",
+   "version": "0.0.1",
+   "description": "template for test driven development with NodeJs",
+   "private": true,
+   "repository": {},
+   "license": "MIT",
+   "author": {
+      "name": "Thomas Ederer",
+      "email": "info@neusiedl.coderdojo.net"
+   },
+   "licenses": [
+      {
+         "type": "BSD-3-Clause"
+      }
+   ],
+   "dependencies": {},
+   "devDependencies": {
+      "grunt": "1.x",
+      "mocha": "8.x",
+      "pug-lint": "2.x",
+      "grunt-contrib-clean": "1.x",
+      "grunt-contrib-jshint": "2.x",
+      "grunt-mocha-test": "0.x"
+   },
+   "engines": {
+      "node": ">=12.16.2"
+   }
+}
