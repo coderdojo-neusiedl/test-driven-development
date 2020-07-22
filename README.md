@@ -23,6 +23,13 @@ This section describes how to install the workshop project.
 7. start `test-driven-development/openVisualStudioCodeHere.bat`
 8. execute `grunt`
 
+### Mac
+1. create a folder on your hard disk and open a command line box
+2. execute `git clone https://github.com/coderdojo-neusiedl/test-driven-development.git`
+3. execute `cd test-driven-development`
+4. execute `npm install`
+5. execute `npm run grunt`
+
 ### References
 
 https://nodejs.org/api/assert.html
